@@ -1,0 +1,19 @@
+.field {
+    display: flex;
+}
+
+.cell {
+    width: 111px;
+    height: 111px;
+    background-color: #BCBBB6;
+    background-repeat: no-repeat;
+    border-radius: 11px;
+    margin: 3px;
+}
+
+.goblin {
+    width: 111px;
+    height: 111px;
+    background-image: url('../img/goblin.png');
+    background-repeat: no-repeat;
+}
